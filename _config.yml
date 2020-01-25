@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Herring Cove
 author: Herring Cove
 baseurl: /herring-cove
@@ -29,3 +30,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 32e9b0a7f39da96a7157786d670db54858d4a647

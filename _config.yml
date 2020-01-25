@@ -4,10 +4,10 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Diego Manzanas Lopez
 tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+description:      'My personal website.'
+url:              http://dieman95.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
@@ -24,11 +24,11 @@ cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          https://twitter.com/dieman95
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/dieman95
     desc:         Fork me on github
 
   - icon:         googleplus-alt
@@ -45,6 +45,12 @@ menu:
 
   - title:        About
     url:          /about
+    
+  - title:        CV
+    url:          /cv
+    
+  - title:        Projects
+    url:          /projects
 
 copyright:
   author:         Camporez

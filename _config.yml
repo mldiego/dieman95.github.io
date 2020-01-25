@@ -5,7 +5,7 @@ permalink:	/blog/:title
 
 # Setup
 title:            Diego Manzanas Lopez
-tagline:          'blog'
+tagline:          'website'
 description:      'My personal website.'
 url:              http://dieman95.github.io
 baseurl:          
@@ -13,7 +13,7 @@ commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
+  name:           Diego Manzanas Lopez
   url:            https://google.com/+IanCamporezBrunelli
 
 paginate:         5
@@ -29,11 +29,7 @@ social:
 
   - icon:         github
     url:          https://github.com/dieman95
-    desc:         Fork me on github
-
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
+    desc:         Find me on github
 
   - icon:         feed
     url:          http://camporez.github.io/atom.xml

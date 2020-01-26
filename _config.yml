@@ -31,9 +31,9 @@ social:
     url:          https://github.com/dieman95
     desc:         Find me on github
 
-  - icon:         search
+  - icon:         user
     url:          https://scholar.google.com/citations?user=kgpZCIAAAAAJ&hl=en
-    desc:         Follow my work
+    desc:         Find me on Google-scholar
 
   - icon:         linkedin
     url:          https://www.linkedin.com/in/diego-manzanas-lopez/

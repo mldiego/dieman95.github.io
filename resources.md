@@ -8,6 +8,8 @@ permalink: resources/
   Find a list of any type of news, articles, books any other resources available online that I have found useful for myself, personally and in my career.
 </div>
 
+## Books
+
 <div class = "middle">
     ## Books
 

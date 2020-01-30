@@ -14,7 +14,7 @@ disqus:           example
 
 author:
   name:           Diego Manzanas Lopez
-  url:            https://google.com/+IanCamporezBrunelli
+  url:            http://dieman95.github.io
 
 paginate:         5
 
@@ -46,15 +46,18 @@ menu:
   - title:        About
     url:          /about
     
-  - title:        CV
-    url:          /cv
-    
   - title:        Projects
     url:          /projects
 
+  - title:        Publications
+    url:          /publications
+
+  - title:        Resources
+    url:          /resources
+
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
+  author:         Diego Manzanas Lopez
+  url:            http://dieman95.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 

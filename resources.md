@@ -5,10 +5,6 @@ permalink: resources/
 ---
 
 <div class="message">
-  Find a list of any type of news, articles, books any other resources available online that I have found useful for myself, personally and in my career.
-</div>
-
-<div class="message">
     <h2> Books </h2>
 </div>
 

@@ -8,12 +8,11 @@ permalink: resources/
   Find a list of any type of news, articles, books any other resources available online that I have found useful for myself, personally and in my career.
 </div>
 
-## Books
 <div class="message">
     <h2> Books </h2>
 </div>
 
-We have a list of books here that I will try to organize by topics, although some may follow into more than one category.
+This a list of books organizez by topics, although some may follow into more than one category, I will add them only to one, the one that makes the most sense to me.
 
 ### AI 
 
@@ -30,3 +29,24 @@ Range maybe? Not sure how to express this category yet. Books like thinking fast
 ### History
 
 Books like Patria, Sapiens...
+
+<div class="message">
+    <h2> News </h2>
+</div>
+
+This can be twitter threads, recent news (unless very important), blog posts, or any similar.
+
+
+<div class="message">
+    <h2> Quotes </h2>
+</div>
+
+Recent, old, short or long, whatever I feel like I like it, I will add it in this section.
+
+<div class="message">
+    <h2> Academic resources </h2>
+</div>
+
+Any online class that I have taken and found valuable and interesting. Will also include some selected research papers related to my area.
+
+

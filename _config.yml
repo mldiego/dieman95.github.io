@@ -40,7 +40,7 @@ social:
     desc:         Follow me on linkedin
 
   - icon:         document
-    url:          https://github.com/dieman95/dieman95.github.io/tree/master/assets/CV_DiegoM.pdf
+    url:          assets/CV_DiegoM.pdf
     desc:         See my Curriculum Vitae
 
 menu:

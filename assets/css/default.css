@@ -383,7 +383,7 @@ pre code {
 
 .menu-content > .social-links-menu {
 	display: inline-block;
-	margin-left: 5px;
+	margin-left: 10px;
 }
 
 .menu-content hr {
@@ -422,7 +422,7 @@ pre code {
 	color: #eee;
 	font-size: 16px;
 	height: 20px;
-	width: 20px;
+	width: 25px;
 	opacity: 1;
 	margin-left: 5px;
 	margin-top: 5px;

@@ -349,7 +349,7 @@ pre code {
 	opacity: 0.75;
 	text-decoration: none;
 	display: inline-block;
-	margin: 0 5px 0 5px;
+	margin: 0 0 0 0;
 	padding: 0;
 }
 .social-links a span {
@@ -383,7 +383,7 @@ pre code {
 
 .menu-content > .social-links-menu {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 .menu-content hr {

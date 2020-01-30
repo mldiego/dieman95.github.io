@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me, myself and I
+title: Resources & Recommendations
 permalink: resources/
 ---
 
@@ -9,5 +9,23 @@ permalink: resources/
 </div>
 
 <div class = "middle">
+    ## Books
+
     We have a list of books here that I will try to organize by topics, although some may follow into more than one category.
+
+    ### AI 
+
+    You look like a thing and I love you - Janelle Shane
+
+    ### Personal development
+
+    Not textbooks, but the How to win friends and influence people is a good one.
+
+    ### Psycology
+
+    Range maybe? Not sure how to express this category yet. Books like thinking fast and slow, David and Goliath...
+
+    ### History
+    
+    Books like Patria, Sapiens...
 </div>

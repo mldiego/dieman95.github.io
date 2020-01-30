@@ -9,6 +9,9 @@ permalink: resources/
 </div>
 
 ## Books
+<div class="message">
+    <h2> Books </h2>
+</div>
 
 We have a list of books here that I will try to organize by topics, although some may follow into more than one category.
 

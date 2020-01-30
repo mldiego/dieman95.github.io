@@ -371,7 +371,7 @@ pre code {
 	display: block;
 	cursor: pointer;
 	background-color: rgba(26, 26, 26, 0.35);
-	width: 35px;
+	width: 30px;
 	height: 30px;
 	top: 12px;
 	left: 12px;
@@ -383,7 +383,7 @@ pre code {
 
 .menu-content > .social-links-menu {
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 5px;
 }
 
 .menu-content hr {

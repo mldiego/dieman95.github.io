@@ -10,24 +10,20 @@ permalink: resources/
 
 ## Books
 
-<div class = "middle">
-    ## Books
+We have a list of books here that I will try to organize by topics, although some may follow into more than one category.
 
-    We have a list of books here that I will try to organize by topics, although some may follow into more than one category.
+### AI 
 
-    ### AI 
+You look like a thing and I love you - Janelle Shane
 
-    You look like a thing and I love you - Janelle Shane
+### Personal development
 
-    ### Personal development
+Not textbooks, but the How to win friends and influence people is a good one.
 
-    Not textbooks, but the How to win friends and influence people is a good one.
+### Psycology
 
-    ### Psycology
+Range maybe? Not sure how to express this category yet. Books like thinking fast and slow, David and Goliath...
 
-    Range maybe? Not sure how to express this category yet. Books like thinking fast and slow, David and Goliath...
+### History
 
-    ### History
-    
-    Books like Patria, Sapiens...
-</div>
+Books like Patria, Sapiens...

@@ -176,12 +176,12 @@ h3 {
 }
 
 #middle {
-	background-color: rgb(163, 239, 245);
+	background-color: rgb(220, 248, 250);
 	width: 100%;
 	height: auto;
 	position: relative;
 	z-index: 3;
-	padding-bottom: 110px;
+	/* padding-bottom: 110px; */
 }
 
 #article, #comments {

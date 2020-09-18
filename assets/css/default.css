@@ -176,7 +176,7 @@ h3 {
 }
 
 #middle {
-	background-color: rgb(220, 248, 250);
+	background-color: rgb(220, 248, 250, 0.3);
 	width: 100%;
 	height: auto;
 	position: relative;

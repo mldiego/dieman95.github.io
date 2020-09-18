@@ -176,12 +176,11 @@ h3 {
 }
 
 #middle {
-	background-color: rgb(220, 248, 250, 0.3);
+	background-color: rgba(220, 248, 250, 0.103);
 	width: 100%;
 	height: auto;
 	position: relative;
 	z-index: 3;
-	opacity: 0.5;
 	padding-bottom: 110px;
 }
 

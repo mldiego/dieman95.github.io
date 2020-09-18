@@ -8,12 +8,14 @@ permalink: about/
   <h3> BIO </h3>
 </div>
 
-HOLA! My name is Diego Manzanas Lopez and I am a PhD candidate at the Institute for Software Integrated Systems at Vanderbilt University. 
+HOLA! My name is Diego Manzanas Lopez* and I am a PhD candidate at the Institute for Software Integrated Systems at Vanderbilt University. I joined Vanderbilt University in 2017, where my research has been focused on providing safety guarantees of autonomous cyber-physical systems via formal methods. 
 
-I am a graduate student at Vanderbilt University and I am as passionate as skeptical of self-driving car technology.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-I moved to the US for what I though it was going to be a 4-year experience, but guess what, it wasn't. I am pursuing my PhD in electrical engineering at Vanderbilt University. 
 
-I have been playing tennis since I was 5, and exercising is my way to relax and disengage with work, classes and any other reserach related topic.
-
-
+<p>* No middle name, Manzanas Lopez are last names. </p>

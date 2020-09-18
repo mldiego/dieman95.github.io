@@ -197,6 +197,23 @@ h3 {
 	padding-bottom: 110px;
 }
 
+#middle-note {
+	background-color: #C7F66A;
+	width: 20%;
+	height: auto;
+	position: relative;
+	z-index: 4;
+}
+
+#middle-about {
+	background-color: rgb(235, 252, 253);
+	width: 100%;
+	height: auto;
+	position: relative;
+	z-index: 3;
+	padding-bottom: 110px;
+}
+
 #article, #comments {
 	font-family: Fenix, Georgia, "Times New Roman", serif;
 	font-weight: 400;

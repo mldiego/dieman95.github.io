@@ -5,8 +5,10 @@ permalink: about/
 ---
 
 <div class="message">
-  <h3> Bio </h3>
+  <h3> BIO </h3>
 </div>
+
+HOLA! My name is Diego Manzanas Lopez and I am a PhD candidate at the Institute for Software Integrated Systems at Vanderbilt University. 
 
 I am a graduate student at Vanderbilt University and I am as passionate as skeptical of self-driving car technology.
 

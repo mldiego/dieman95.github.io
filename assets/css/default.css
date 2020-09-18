@@ -373,6 +373,7 @@ pre code {
 	right: 20px;
 	position: absolute;
 	z-index: 2;
+	color: black;
 }
 
 .social-links a {

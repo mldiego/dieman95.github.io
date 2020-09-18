@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Me, myself and I
+title: ABOUT
 permalink: about/
 ---
 
 <div class="message">
-  Get to know me!
+  <h3> Bio </h3>
 </div>
 
 I am a graduate student at Vanderbilt University and I am as passionate as skeptical of self-driving car technology.

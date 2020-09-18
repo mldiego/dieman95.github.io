@@ -64,6 +64,7 @@ h3 {
 	font-size: 14px;
 	position: absolute;
 	z-index: 2;
+	color: #bf616a;
 }
 
 #post-info h1 {
@@ -95,6 +96,17 @@ h3 {
 }
 
 #home-title {
+	left: 50%;
+	top: 8%;
+	background-repeat: no-repeat;
+	background-color: #00bdb72c;
+	position: absolute;
+	border-radius: 50%;
+	transition-duration: .25s;
+	z-index: 1;
+}
+
+#other-title {
 	left: 50%;
 	top: 8%;
 	background-repeat: no-repeat;

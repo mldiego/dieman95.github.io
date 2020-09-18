@@ -181,7 +181,8 @@ h3 {
 	height: auto;
 	position: relative;
 	z-index: 3;
-	/* padding-bottom: 110px; */
+	opacity: 0.5;
+	padding-bottom: 110px;
 }
 
 #article, #comments {

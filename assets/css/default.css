@@ -106,17 +106,17 @@ h3 {
 }
 
 .site-icon-home {
-	width: 150px;
-	height: 150px;
-	background-size: 150px;
+	width: 75px;
+	height: 75px;
+	background-size: 75px;
 	margin: -75px 0 0 -75px;
-	opacity: .9;
+	opacity: .5;
 }
 
 .site-icon-home:hover {
-	width: 160px;
-	height: 160px;
-	background-size: 160px;
+	width: 100px;
+	height: 100px;
+	background-size: 100px;
 	margin: -80px 0 0 -80px;
 	opacity: 1;
 }

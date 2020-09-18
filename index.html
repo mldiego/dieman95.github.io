@@ -3,22 +3,32 @@ layout: default
 title: Home
 ---
 
-<header class="clean" style="height: 810px; background-image: url({{ site.cover2 }}); {% if site.parallax != true %}background-attachment: scroll;{% endif %}" data-stellar-background-ratio="0.5" data-stellar-horizontal-offset="50">
+<header class="clean"
+	style="height: 810px; background-image: url({{ site.cover2 }}); {% if site.parallax != true %}background-attachment: scroll;{% endif %}"
+	data-stellar-background-ratio="0.5" data-stellar-horizontal-offset="50">
 	{% include top.html %}
-	<a href="{{ site.url }}{{ site.baseurl }}">
-		<div id="home-title" class="site-icon-home" style="background-image: url({{ site.icon }});" data-stellar-ratio="0.5"></div>
-	</a>
+	<!-- <a href="{{ site.url }}{{ site.baseurl }}">
+		<div id="home-title" class="site-icon-home" style="background-image: url({{ site.icon }});"
+			data-stellar-ratio="0.5"></div>
+	</a> -->
 </header>
 <div id="middle" style="text-align:center">
-	<h1 style="color:royalblue;"><strong>Diego <em> Manzanas Lopez </em></strong></h1> 
+	<h1 style="color:royalblue;"><strong>Diego <em> Manzanas Lopez </em></strong></h1>
 	<h2 style="color:gray;"> Welcome to my little space. Glad you visited!</h2>.
 	<h3> Here you can learn everything about me. </h3>
 	<div id="middle-up" display: inline-block>
-	<ul style="list-style-type:none;" display: inline-block;>
-		<li><h3> You can find a little about my life under the <em>about</em> page. </h3> </li>
-		<li><h3> If you are interested about my ongoing and past projects, please visit the <em>projects</em> page. </h3> </li>
-		<li><h3> To find my complete and up-to-date Curriculum Vitae, come see the <em>cv</em> page. </h3> </li>
-	</ul>
+		<ul style="list-style-type:none;" display: inline-block;>
+			<li>
+				<h3> You can find a little about my life under the <em>about</em> page. </h3>
+			</li>
+			<li>
+				<h3> If you are interested about my ongoing and past projects, please visit the <em>projects</em> page.
+				</h3>
+			</li>
+			<li>
+				<h3> To find my complete and up-to-date Curriculum Vitae, come see the <em>cv</em> page. </h3>
+			</li>
+		</ul>
 	</div>
 	<br>
 	<br>
@@ -32,6 +42,9 @@ title: Home
 	<b>If you are ever around Nashville, let's meet!</b>
 </div>
 
-<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
-	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
+<footer class="clean"
+	style="background-image: url({{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
+	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}"
+			target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}"
+			target="_blank">{{ site.copyright.type_title }}</a>.</p>
 </footer>

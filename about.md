@@ -18,4 +18,4 @@ HOLA! My name is Diego Manzanas Lopez* and I am a PhD candidate at the Institute
 <br>
 
 
-<p>* No middle name, Manzanas Lopez are last names. </p>
+<p>* No middle name, Manzanas Lopez are my last name. </p>

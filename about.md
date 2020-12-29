@@ -8,7 +8,7 @@ permalink: about/
   <h3> BIO </h3>
 </div>
 
-HOLA! My name is Diego Manzanas Lopez* and I am a PhD candidate at the Institute for Software Integrated Systems at Vanderbilt University. I joined Vanderbilt University in 2017, where my research has been focused on providing safety guarantees of autonomous cyber-physical systems via formal methods. 
+HOLA! My name is Diego Manzanas Lopez and I am a PhD candidate at the Institute for Software Integrated Systems at Vanderbilt University. I joined Vanderbilt University in 2017, where my research has been focused on providing safety guarantees of autonomous cyber-physical systems via formal methods. 
 
 <br>
 <br>
@@ -18,4 +18,4 @@ HOLA! My name is Diego Manzanas Lopez* and I am a PhD candidate at the Institute
 <br>
 
 
-<p>* No middle name, Manzanas Lopez are my last name. </p>
+<!-- <p>* No middle name, Manzanas Lopez are my last name. </p> -->

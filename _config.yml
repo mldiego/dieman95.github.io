@@ -7,14 +7,14 @@ permalink:	/blog/:title
 title:            Diego Manzanas Lopez
 tagline:          'website'
 description:      'My personal website.'
-url:              http://dieman95.github.io
+url:              http://mldiego.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
   name:           Diego Manzanas Lopez
-  url:            http://dieman95.github.io
+  url:            http://mldiego.github.io
 
 paginate:         5
 
@@ -29,7 +29,7 @@ social:
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/dieman95
+    url:          https://github.com/mldiego
     desc:         Find me on github
 
   - icon:         googleplus
@@ -62,7 +62,7 @@ menu:
 
 copyright:
   author:         Diego Manzanas Lopez
-  url:            http://dieman95.github.io
+  url:            http://mldiego.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 

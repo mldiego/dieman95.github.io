@@ -20,8 +20,8 @@ paginate:         5
 
 # Custom vars
 icon:             /assets/images/icon_sa.svg
-cover:            /assets/images/smokies_diego.jpeg
-cover2:           /assets/images/smokies_diego.jpeg
+cover:            /media/smokies.jpg
+cover2:           /media/smokies.jpg
 
 social:
   - icon:         twitter

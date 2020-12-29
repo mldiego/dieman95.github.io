@@ -1,35 +1,41 @@
-# Thinny - The Infinite's Nymphet
+downing.io
+================================================================================
 
+Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
+as well as some links to Github. :octocat:
 
-----
+## Forking Note
 
-### Attention
+If you fork this repo, please change the **form action** to an email address you own before trying it out. [Thaaaanks!](https://i.imgur.com/TpBVEjv.jpg)
 
-I'm no longer maintaining this repository.
+```
+<form action="https://formspree.io/your-email@here.com" method="POST" class="form-horizontal" role="form">
+```
 
-If you want to add something, feel free to send a pull request, which I'll see if it's okay and merge.
+Built using:
+--------------------------------------------------------------------------------
+[HTML5](https://developers.google.com/web/)  
+[Bootstrap](http://getbootstrap.com/) for CSS  
+[jQuery](https://jquery.com/) for JS  
+[namecheap](https://www.namecheap.com/) for the awesome domain  
+[GitHub Pages](https://pages.github.com/) for hosting  
+[CloudFlare](https://www.cloudflare.com/) for the SSL cert and fancy green lock :lock:  
+[git](https://git-scm.com/) for source control
 
-----
+Based on the
+[Creative Bootstrap theme](http://startbootstrap.com/template-overviews/creative/)
+from [Start Bootstrap](http://startbootstrap.com/).
+The theme is also MIT Licensed.
 
-## Installation
-1. Clone the repo: `git clone https://github.com/camporez/Thinny.git Thinny`
-2. Open the folder: `cd Thinny`
-3. Install the dependencies: `bundle install`
-4. Build the website: `bundle exec jekyll serve`
+View it here: [downing.io](https://downing.io/)
 
-## About
-Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
+Check out some of my other webpages at 
+[github.com/JasonD94/](https://github.com/JasonD94/)
 
-(if you're looking for the [Ghost](http://ghost.org) release of the theme, check [this page](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra))
+##### NOTE:
 
-## Demo
-[![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.github.io/)
-The above image is a preview of how the post header looks on Thinny.
-
-A live demo is available [on my personal blog](http://camporez.github.io/).
-
-## More information
-Read the blog post [here](http://camporez.github.io/blog/thinny-2/).
-
-## Reporting issues
-You can report an issue or request a feature [here](http://github.com/camporez/Thinny/issues) or on [twitter](http://twitter.com/iancamporez).
+I have a custom domain connected to GitHub, so my GitHub Pages repositories 
+do not follow the usual GITHUB-USERNAME-HERE.github.io/REPOSITORY-NAME-HERE format. 
+Instead they follow a "downing.io/REPOSITORY-NAME-HERE" format. 
+If the domain fails for some reason, you can still access my site by going to 
+[https://jasond94.github.io](https://jasond94.github.io)

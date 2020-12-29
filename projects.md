@@ -8,9 +8,10 @@ permalink: projects/
   Coolest projects for the development of better CPSs. These includes automous drones, self-driving cars and more!
 </div>
 
-### On-going Projects
+## On-going Projects
 
 #### F1Tenth Autonomous Racing Competition
+
 
 #### NNV
 
@@ -18,7 +19,7 @@ permalink: projects/
 
 #### DARPA Assured Autonomy
 
-### Past Projects
+## Past Projects
 
 #### NSF CPS Challenge
 
